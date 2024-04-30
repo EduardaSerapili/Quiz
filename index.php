@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz || Feira-Técnologica</title>
-    <!--================CSS EXTERNO================-->
+   
     <link rel="stylesheet" href="estilo.css">
+    <link rel="manifest" href="manifest.json"></link>
 </head>
 <body>
 
